@@ -10,5 +10,5 @@
 - VMware Workstation Pro:[VMware Workstation Pro 17.5.1]()
 - PACK_UPDATE_TOOL:[WonderEchoPro固件烧录工具]()
 - File Transferring Tool：[WinSCP-5.15.3-Setup.exe](https://store.hiwonder.com.cn/docs/common/File_transfer_tool/WinSCP-5.15.3-Setup.exe)
-- APP Installation Pack (Android)：[WonderAi]()
-- APP Installation Pack (iOS)：[WonderAi]()
+- APP Installation Pack (Android)：[WonderAi](https://play.google.com/store/apps/details?id=com.hiwonder.wonder_ai)
+- APP Installation Pack (iOS)：[WonderAi](https://apps.apple.com/cn/app/wonderai/id1561134103)
