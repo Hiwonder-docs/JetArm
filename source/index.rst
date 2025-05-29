@@ -30,7 +30,4 @@ JetArm
    docs/18.ROS2_Voice_control.md
    docs/19.ROS2-AI_Large_Model_Courses.md
    docs/resources_download.md
-
-
-
-
+   Download <https://drive.google.com/drive/folders/1BFNSzyUxQ-ju0nZPvMxPsQ7ZNrAoAKtE?usp=sharing>
