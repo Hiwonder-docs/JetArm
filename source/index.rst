@@ -19,6 +19,7 @@ JetArm
    docs/6.ROS1_Deep_Learning_Application_Lesson.md
    docs/7.ROS1_Robot_Arm_URDF_Modeling_Simulation.md
    docs/8.ROS1_Depth_Camera_Applications.md
+   docs/9.ROS1_Voice_control.md
    docs/10.ROS1_Robot_Arm+Sliding_Rail_Course.md
    docs/11.ROS2_Robot_Arm_Basic_ControlUser_Manual.md
    docs/12.ROS2_Robot_Arm_Advanced_Control.md
