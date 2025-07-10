@@ -30,5 +30,8 @@ JetArm
    docs/17.ROS2_Robot_Arm_Depth_Camera_Application.md
    docs/18.ROS2_Voice_control.md
    docs/19.ROS2-AI_Large_Model_Courses.md
+   docs/20.JetArm_and_Sliding_Rail_Integration_Course.md
+   docs/21.JetArm_and_Chassis_Integration_Course.md
+   docs/22.JetArm_and_Electrical_Conveyor_Belt_Integration_Course.md
    docs/resources_download.md
    Download <https://drive.google.com/drive/folders/1BFNSzyUxQ-ju0nZPvMxPsQ7ZNrAoAKtE?usp=sharing>
