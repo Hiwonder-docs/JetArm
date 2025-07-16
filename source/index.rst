@@ -34,4 +34,5 @@ JetArm
    docs/21.JetArm_and_Chassis_Integration_Course.md
    docs/22.JetArm_and_Electrical_Conveyor_Belt_Integration_Course.md
    docs/resources_download.md
-   Download <https://drive.google.com/drive/folders/1BFNSzyUxQ-ju0nZPvMxPsQ7ZNrAoAKtE?usp=sharing>
+   JetArm Download <https://drive.google.com/drive/folders/1BFNSzyUxQ-ju0nZPvMxPsQ7ZNrAoAKtE?usp=sharing>
+   JetArm Pro Download <https://drive.google.com/drive/folders/1eWiXalrr2Ij1roFf10NEJnSYP9Q6_IQ3?usp=sharing>
