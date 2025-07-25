@@ -16,6 +16,17 @@ release = 'v1.0'
 
 extensions = ['sphinx_markdown_tables','myst_parser','sphinx_copybutton','sphinx_multiversion']
 
+smv_branch_whitelist = r'^.*$'
+smv_released_pattern = r'^branch/.*$'
+smv_outputdir_format = '{ref.name}'
+smv_prefer_remote_refs = False
+smv_versionname_fallback = 'JetArm (Orin Nano Version)'
+smv_versiondict = {
+    'main': 'JetArm (Orin Nano Version)',
+    'latest': 'JetArm (Orin Nano Version)',
+    'Jetson-Nano': 'JetArm (Jetson Nano Version)',
+}
+
 templates_path = ['_templates']
 exclude_patterns = []
 
@@ -30,6 +41,10 @@ myst_enable_extensions = [
     "amsmath",
     "dollarmath",
 ]
+html_context = {
+    'display_latest': True,
+    'latest_version_name': 'JetArm (Orin Nano Version)',
+}
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_css_files = ['style.css']
@@ -37,5 +52,6 @@ html_js_files = ['custom.js']
 html_theme_options = {
     'version_selector': True,
     'versioning': True,
+    'current_version_name': 'JetArm (Jetson Nano Version)',
     'style_nav_header_background': '#f98800',
 }
