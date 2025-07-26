@@ -4,12 +4,12 @@
    contain the root `toctree` directive.
 
 ===========
-JetArm
+JetArm (Orin Nano Version)
 ===========
 
 .. toctree::
    :maxdepth: 2
-   :caption: JetArm
+   :caption: JetArm (Orin Nano Version)
 
    docs/1.Getting_Ready.md
    docs/2.ROS1_Robot_Arm_Basic_Control_User_Manual.md
