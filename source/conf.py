@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'JetArm (Jetson Nano Version)'
+project = 'JetArm & JetArm Pro (Jetson Nano Version)'
 copyright = '2025, Hiwonder'
 author = 'Hiwonder'
 release = 'v1.0'
