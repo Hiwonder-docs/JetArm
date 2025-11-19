@@ -1,3 +1,10 @@
+function capitalizeWords(str) {
+    if (!str) return str;
+    return str.split('-').map(function(word) {
+        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+    }).join('-');
+}
+
 function initMenu() {
     var nav_sidebar = document.querySelector('.wy-nav-side');
     var nav_search = nav_sidebar.querySelector('.wy-side-scroll .wy-side-nav-search');
@@ -77,6 +84,20 @@ function initMenu() {
                 download_lia.appendChild(new_space);
                 download_lia.appendChild(new_i);
             }
+        });
+    }
+
+    var selectElement = document.querySelector('select');
+    if (selectElement) {
+        var options = selectElement.querySelectorAll('option');
+
+        options.forEach(function(option) {
+            var currentText = option.textContent.trim();
+            console.log(currentText)
+            // 连字符分隔的首字母大写: Jetarm-Orin-Nano
+            var capitalized = capitalizeWords(currentText);
+            console.log(capitalized)
+            option.textContent = capitalized;
         });
     }
 }
