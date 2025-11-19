@@ -31,6 +31,12 @@ myst_enable_extensions = [
     "dollarmath",
 ]
 
+# conf.py
+html_context = {
+    'main_project_url': 'https://wiki.hiwonder.com/en/latest/',
+    'main_project_name': 'Hiwonder Docs'
+}
+
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_css_files = ['style.css']
@@ -38,5 +44,11 @@ html_js_files = ['custom.js']
 html_theme_options = {
     'version_selector': True,
     'versioning': True,
+    'current_version_name': 'Advanced',
     'style_nav_header_background': '#f98800',
+    'display_version': True,
+    'prev_next_buttons_location': 'both',
+    'style_external_links': True,
+    'logo_only': False,
+    'collapse_navigation': False,
 }
