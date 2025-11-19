@@ -38,5 +38,11 @@ html_js_files = ['custom.js']
 html_theme_options = {
     'version_selector': True,
     'versioning': True,
-    'style_nav_header_background': '#f98800',
+    'current_version_name': 'Advanced',
+    'style_nav_header_background': '#F29401',
+    'display_version': True,
+    'style_external_links': True,
+    'sticky_navigation': True,
+    'logo_only': False,
+    'collapse_navigation': False,
 }

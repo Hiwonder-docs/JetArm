@@ -9,7 +9,7 @@ JetArm & JetArm Pro (Jetson Nano Version)
 
 .. toctree::
    :maxdepth: 2
-   :caption: JetArm & JetArm Pro (Jetson Nano Version)
+   :caption: Specification
 
    docs/1.Getting_Ready.md
    docs/2.ROS1_Robot_Arm_Basic_Control_User_Manual.md
@@ -32,6 +32,18 @@ JetArm & JetArm Pro (Jetson Nano Version)
    docs/19.JetArm_and_Chassis_Integration_Course.md
    docs/20.JetArm_and_Sliding_Rail_Integration_Course.md
    docs/21.ROS2-AI_Large_Model_Courses.md
-   docs/resources_download.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Download
+
+   Remote Control PC Software <https://drive.google.com/drive/folders/1mk-khOCVOA3V_WVms6hcbun8bZbg_F9F?usp=sharing>
+   Image Burning Tool <https://drive.google.com/drive/folders/1FBb0AVXGVc_P5syNtI7DGKD3XUsOuzAW?usp=sharing>
+   Firmware Download Tool<https://drive.google.com/drive/folders/1Xbj-f8x1LTQRXREob1kq4yygSBAhbLt7?usp=sharing>
+   PuTTY(ssh) <https://drive.google.com/drive/folders/1EAgEFiw8VNwFR89cfcPU3zsUxvFx2W_-?usp=sharing>
+   Virtual Machine Installation Pack <https://drive.google.com/drive/folders/15e2GyXFR2HI6q1taWd7mswCwC_UKNwkb?usp=sharing>
+   Voice Environment Setup Tool <https://drive.google.com/drive/folders/1LLePmAY1c-gjNy_dR37rKTuHisg3emEM?usp=sharing>
+   WonderAi Android App <https://play.google.com/store/apps/details?id=com.hiwonder.wonder_ai>
+   WonderAi iOS App<https://apps.apple.com/cn/app/wonderai/id1561134103>
    JetArm Download <https://drive.google.com/drive/folders/1BFNSzyUxQ-ju0nZPvMxPsQ7ZNrAoAKtE?usp=sharing>
    JetArm Pro Download <https://drive.google.com/drive/folders/1eWiXalrr2Ij1roFf10NEJnSYP9Q6_IQ3?usp=sharing>
