@@ -93,17 +93,10 @@ function initMenu() {
 
         options.forEach(function(option) {
             var currentText = option.textContent.trim();
-
-            // 选择你想要的格式：
-            // 1. 连字符分隔的首字母大写: Jetarm-Orin-Nano
+            console.log(currentText)
+            // 连字符分隔的首字母大写: Jetarm-Orin-Nano
             var capitalized = capitalizeWords(currentText);
-
-            // 2. 空格分隔的标题格式: Jetarm Orin Nano
-            // var capitalized = toTitleCase(currentText);
-
-            // 3. 驼峰命名: JetarmOrinNano
-            // var capitalized = toPascalCase(currentText);
-
+            console.log(capitalized)
             option.textContent = capitalized;
         });
     }
